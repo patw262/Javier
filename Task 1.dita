@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_v51_gjw_mx">
+    <title>Brushing your teeth</title>
+    <shortdesc>Something to do so your breath doesn't stink.</shortdesc>
+    <taskbody>
+        <context>You'll need a toothbrush, toothpaste and a sink.<p/></context>
+        <steps>
+            <step>
+                <cmd>Pick up your toothbrush with your dominant hand.</cmd>
+            </step>
+            <step>
+                <cmd>Squeeze a small amount of toothpaste on the bristles of your toothbrush.</cmd>
+            </step>
+            <step>
+                <cmd>Brush your teeth with the toothbrush.</cmd>
+            </step>
+            <step>
+                <cmd>Turn the sink on.</cmd>
+            </step>
+            <step>
+                <cmd>Rinse your mouth out with water.</cmd>
+            </step>
+            <step>
+                <cmd>Rinse the bristles of the toothbrush off.</cmd>
+            </step>
+            <step>
+                <cmd>Turn the sink off.</cmd>
+            </step>
+            <step>
+                <cmd>Put your toothbrush and toothpaste away.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_akp_5dv_4x">
+    <title>Making coffee</title>
+    <shortdesc>Something to do so you are more awake.</shortdesc>
+    <taskbody>
+        <context>You'll need a coffee maker, coffee grounds, water, cream, sugar and a
+            mug.<p/></context>
+        <steps>
+            <step>
+                <cmd>Fill your coffee maker with the desired amount of water.</cmd>
+            </step>
+            <step>
+                <cmd>Fill your coffee maker with the correct amount of coffee grounds for the amount
+                    of water you used.</cmd>
+            </step>
+            <step>
+                <cmd>Press 'Start' or 'Brew Now' on your coffee maker.</cmd>
+            </step>
+            <step>
+                <cmd>Wait for your coffee to brew.</cmd>
+            </step>
+            <step>
+                <cmd>When finished, pour your coffee from the coffee maker to your mug.</cmd>
+            </step>
+            <step>
+                <cmd>Add cream or sugar if desired and enjoy.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

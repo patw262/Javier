@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_urd_12v_4x">
+    <title>Making bacon and eggs</title>
+    <shortdesc>Something to do to satisfy your hunger.</shortdesc>
+    <taskbody>
+        <context>You'll need a stove, pan, spatula, silverware, a plate, bacon and
+            eggs.<p/></context>
+        <steps>
+            <step>
+                <cmd>Turn the stove on low to medium heat.</cmd>
+            </step>
+            <step>
+                <cmd>Place the pan on the stove and wait for it to warm up.</cmd>
+            </step>
+            <step>
+                <cmd>Place your bacon on the pan (it should sizzle).</cmd>
+            </step>
+            <step>
+                <cmd>Cook the bacon until it's crispy.</cmd>
+            </step>
+            <step>
+                <cmd>Take the bacon off the pan with your spatula.</cmd>
+            </step>
+            <step>
+                <cmd>Place your bacon on your plate.</cmd>
+            </step>
+            <step>
+                <cmd>Remove about half of the bacon grease from your pan, you'll use the other half
+                    to cook your eggs.</cmd>
+            </step>
+            <step>
+                <cmd>Crack the eggs in your pan.</cmd>
+            </step>
+            <step>
+                <cmd>Flip the eggs after 2-3 minutes.</cmd>
+            </step>
+            <step>
+                <cmd>After a few more minutes, remove the eggs from your pan.</cmd>
+            </step>
+            <step>
+                <cmd>Place the eggs on your plate.</cmd>
+            </step>
+            <step>
+                <cmd>With your silverware, enjoy your freshly cooked bacon and eggs. </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
